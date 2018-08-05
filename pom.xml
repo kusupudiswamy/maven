@@ -20,6 +20,7 @@
 		<name>Nexus Release Repository</name>
 		<url>http://13.127.132.232:8081/repository/swamy/</url>
 	</repository>
+	</distributionManagement>
 	
   <dependencies>
     <dependency>
